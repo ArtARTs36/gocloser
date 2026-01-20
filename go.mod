@@ -1,3 +1,3 @@
-module github.com/artart36/gocloser
+module github.com/artarts36/gocloser
 
 go 1.24.7
